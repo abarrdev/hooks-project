@@ -1,6 +1,7 @@
 import React from 'react';
 import TodoApp from './components/TodoApp'
 
+
 function App() {
   return (
     <TodoApp />
@@ -8,3 +9,9 @@ function App() {
 }
 
 export default App;
+
+
+// TodoApp
+//    TodoForm
+//    TodoList
+//      TodoItem
